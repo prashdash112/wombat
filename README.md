@@ -1,4 +1,4 @@
-# WOMBATO
+# WOMBATOO
 
 #### Wombatoo is a python library which have the following features: 
 
