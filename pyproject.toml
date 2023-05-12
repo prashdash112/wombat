@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
                     
 [project]
 name = "wombatoo"
-version = "0.0.9"
+version = "1.0.0"
 authors = [
   { name="Prashant Singh", email="prashdash112@gmail.com" },
 ]
@@ -23,5 +23,5 @@ where = ["src"]
 wombatoo = ["*.txt"]
 
 [project.urls]
-"Homepage" = "https://github.com/prashdash112/wombat"
-"Bug Tracker" = "https://github.com/prashdash112/wombat/issues"
+"Homepage" = "https://github.com/prashdash112/wombatoo"
+"Bug Tracker" = "https://github.com/prashdash112/wombatoo/issues"
