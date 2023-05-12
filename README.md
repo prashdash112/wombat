@@ -9,6 +9,7 @@
 5) Schema: A csv document having the schema of the dataset. Users can use it to validate the schema in the data pipeline. 
 
 #### Installation
+
 ```
 pip install wombatoo
 ```
